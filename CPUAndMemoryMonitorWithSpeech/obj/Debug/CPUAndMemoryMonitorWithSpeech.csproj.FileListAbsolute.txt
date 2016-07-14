@@ -1,0 +1,6 @@
+c:\users\clayton\documents\visual studio 2013\Projects\CPUAndMemoryMonitorWithSpeech\CPUAndMemoryMonitorWithSpeech\bin\Debug\CPUAndMemoryMonitorWithSpeech.exe.config
+c:\users\clayton\documents\visual studio 2013\Projects\CPUAndMemoryMonitorWithSpeech\CPUAndMemoryMonitorWithSpeech\bin\Debug\CPUAndMemoryMonitorWithSpeech.exe
+c:\users\clayton\documents\visual studio 2013\Projects\CPUAndMemoryMonitorWithSpeech\CPUAndMemoryMonitorWithSpeech\bin\Debug\CPUAndMemoryMonitorWithSpeech.pdb
+c:\users\clayton\documents\visual studio 2013\Projects\CPUAndMemoryMonitorWithSpeech\CPUAndMemoryMonitorWithSpeech\obj\Debug\CPUAndMemoryMonitorWithSpeech.csprojResolveAssemblyReference.cache
+c:\users\clayton\documents\visual studio 2013\Projects\CPUAndMemoryMonitorWithSpeech\CPUAndMemoryMonitorWithSpeech\obj\Debug\CPUAndMemoryMonitorWithSpeech.exe
+c:\users\clayton\documents\visual studio 2013\Projects\CPUAndMemoryMonitorWithSpeech\CPUAndMemoryMonitorWithSpeech\obj\Debug\CPUAndMemoryMonitorWithSpeech.pdb
